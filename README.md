@@ -1,8 +1,10 @@
-All people use old or new script if works that's fine!
+BHAI JISKO BHI BOT BNWANA HAI WO CONTACT KRO @KILLER305
+
 
 If u want to attack directly using terminal follow some steps - 
 Click on fork  repository! After create codespace of 4 core after creating open terminal
- just run 2 command only one time 
+ just run 2 command only one time
+ notice- jab new script aayegi tab ye bot inactive ho jayega,new bot ka update krana pdega,uske alagr charges hai
 1- pip install telebot
 2- chmod +x *
 
@@ -15,5 +17,5 @@ example-
 U have to determine the time two time 
 Then delite terminal bash to stop attack 
   -thankyou keep supporting
-Must join- venomCHA7.t.me
-Wanna buy hacks vps or anything dm - venomXcrazy.t.me
+Must join- xyladdos.t.me
+Wanna buy hacks vps or anything dm - @killer3005.t.me
